@@ -1,0 +1,46 @@
+
+
+
+
+
+Post-Quantum Cryptography
+
+
+
+Analyze the security and performance implications of post-quantum 
+multiple encryption.
+
+
+Introduction
+Post-quantum cryptography (PQC) in other terms quantum-resistant cryptography or quantum-safe cryptographyfocuses on developing cryptographic systems resistant to quantum computer attacks,
+which threaten traditional algorithms like Elliptic Curve Cryptography(ECC).The need for PQC emerged in the 1990s with the discovery of quantum algorithms like Shor's and Grover's, 
+could break these classical systems. Research in the 2000s introduced quantum-resistant methods based on lattice problems, hash functions, and multivariate equations. In 2012, 
+The National Institute of Standards and Technology (NIST) in the United States launched the Post-Quantum Cryptography Standardization Project.
+NIST called for submissions of cryptographic algorithms that were resistant to quantum attacks, with the goal of standardizing them by 2022.
+This initiative was a pivotal moment in the field and spurred global research and development.NIST launched a project to standardize post-quantum algorithms, leading to the announcement of finalists like Kyber, NTRU, and FALCON in 2022.
+As quantum computing advances, ongoing efforts aim to refine and implement these algorithms, 
+transitioning cryptographic systems worldwide to ensure security in a quantum future.
+
+
+Post-quantum cryptography (PQC) has made a lot of progress in recent years, 
+especially with the NIST Post-Quantum Cryptography Standardization Project. 
+In 2022, NIST picked algorithms like Kyber, NTRU, FALCON, and Rainbow to become official standards for quantum-resistant security. 
+Many systems are also using hybrid cryptographic methods, which combine traditional encryption with post-quantum algorithms to stay secure for now. 
+Researchers are still working on improving these algorithms for different uses, while the world gets ready for the potential rise of powerful quantum computers. 
+The shift to quantum-safe encryption is happening, but it will take time to fully transition to systems that can handle future quantum threats.
+
+
+
+
+
+
+
+
+quantum-resistant cryptography or quantum-safe cryptography.
+
+
+Reference
+https://www.nist.gov/cybersecurity/what-post-quantum-cryptography
+
+
+page 1
